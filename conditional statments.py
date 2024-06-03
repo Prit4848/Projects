@@ -6,7 +6,8 @@ if a > 0:
     print(a)
 print("thank you")
 
-# if else statment
+# if else statmentoixjhn[oi hiojy ]hnt 
+eok gtub[0 ngt90ue=b=rd45yb9t nyi
 
 b = 12
 
